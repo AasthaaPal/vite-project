@@ -1,0 +1,18 @@
+.input-container {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 20px;
+  width: 300px;
+}
+
+.input-text {
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 5px;
+}
+
+.output-box {
+  border: 1px solid black;
+  padding: 10px;
+  background-color: lightgray;
+}
